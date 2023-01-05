@@ -8,7 +8,7 @@ Command to program teensy from cmd line:
     - If Teensy 3.6, use: --mcu=TEENSY36
     - If Teensy 4.1, use: --mcu=TEENSY41
 
-- `-s` tells which program to upload (HEX files only)
+- `-s` performs a soft reboot if Teensy is not available
 - `-v` means verbose
 
 ```
