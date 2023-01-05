@@ -1,0 +1,5 @@
+TL;DR:
+/var/arduino_build_XXXX/code.hex
+
+https://arduino.stackexchange.com/questions/48431/how-to-get-the-firmware-hex-file-from-a-ino-file-containing-the-code
+
